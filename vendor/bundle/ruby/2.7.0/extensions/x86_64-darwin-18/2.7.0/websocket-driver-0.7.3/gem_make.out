@@ -1,0 +1,15 @@
+current directory: /Users/hoguchi/sand-box/sample_slack_app_in_rails/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+/Users/hoguchi/.rbenv/versions/2.7.1/bin/ruby -I /Users/hoguchi/.rbenv/versions/2.7.1/lib/ruby/2.7.0 -r ./siteconf20201024-56330-125dyb9.rb extconf.rb
+creating Makefile
+
+current directory: /Users/hoguchi/sand-box/sample_slack_app_in_rails/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/hoguchi/sand-box/sample_slack_app_in_rails/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/hoguchi/sand-box/sample_slack_app_in_rails/vendor/bundle/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20201024-56330-1t2ln7y
